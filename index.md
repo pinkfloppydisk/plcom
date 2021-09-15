@@ -60,7 +60,7 @@ A viewer of the Epitech intranet calendar. Aims to be a simpler and cleaner intr
 I created and maintained a timelapse of a virtual canvas where people place colored pixels to make art. (April 2017 - January 2020)
 
 - [timelapse.canvas.place](https://timelapse.canvas.place)
-- [Source code](https://github.com/x4m3/timelapse)
+- [Source code](https://github.com/x4m3/timelapse-canvas-place)
 
 ### vim plugins
 
